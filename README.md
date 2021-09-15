@@ -1,4 +1,4 @@
-# ETL Process for Ingesting Public Data Related to COVID-19 in Apache Hive
+# Architecture to process public data related to COVID-19 for analysis
 
 ---
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
