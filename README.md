@@ -8,7 +8,7 @@ Collect public data of net movements and monthly transfers of expenses of the Fe
 
 ## Architecture
 
-![arquitetura](https://user-images.githubusercontent.com/58046267/133391333-1b2a7ec3-ca18-42a2-838d-09fff8a717c4.png)
+![arquitetura](https://user-images.githubusercontent.com/58046267/133438914-379e3673-5f28-484c-8e35-15fc2cfeb694.png)
 
 ## Documentation
 
