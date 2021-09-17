@@ -14,8 +14,6 @@ default_args = {
     "owner": "Diego Lopes",
     "depends_on_past": False,
     # "start_date": datetime(2020, 1, 23),
-    # "email_on_failure": False,
-    # "email_on_retry": False,
     "retries": 3,
     "retry_delay": timedelta(minutes=3),
     "provide_context": True
